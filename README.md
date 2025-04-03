@@ -1,4 +1,4 @@
-<h1 align="center">I'm Erick Kisuge</h1>
+<h1 align="center">👋 Hi, I'm Erick Kisuge</h1>
 <h3 align="center"><b>A Full Stack Developer specializing in Django and Python</b></h3>
 
 <p align="center">
@@ -91,5 +91,13 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.cypress.io" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
+  </a>  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>  
 </p>
