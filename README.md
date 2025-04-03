@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Erick Kisuge</h1>
-<h3 align="center"><b>A Full Stack Web Developer with Expertise in React and Django</b></h3>
+<h3 align="center"><b>A Full Stack Web Developer with Expertise in React ,Node.Js and Django</b></h3>
 
 <p align="center">
   🚀 Passionate about building scalable web applications and exploring new technologies.
