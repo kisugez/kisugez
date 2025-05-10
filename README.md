@@ -8,7 +8,8 @@
 <!-- Portfolio Link with a Moving Icon -->
 <p align="center">
   🔗 Check out my Portfolio:  
-  <a href="https://erickkisugeportfolio.netlify.app/" target="_blank">
+  <a href="https://kisugezportfolio.vercel.app/
+    " target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>  
   <img src="https://media.giphy.com/media/jJqc1BzYxNKiM/giphy.gif" width="30px"/>
