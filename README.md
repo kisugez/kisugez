@@ -1,6 +1,1 @@
-
-<p align="center">
-  <a href="https://erickkisuge.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%20-ffffff?style=for-the-badge&labelColor=A67B5B&color=A67B5B&logoWidth=0&longCache=true" alt="PORTFOLIO" width="40%" />
-  </a>
-</p>
+![9f51cc2ae4004507f43ee93ccacd2ec2](https://github.com/user-attachments/assets/d9d7e22f-4bfe-48ac-93ed-f42933ae588f)
